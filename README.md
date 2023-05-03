@@ -4,7 +4,7 @@
 
 ```
 pkg up -y
-'''
+```
 ```
 pkg install git -y
 ```
